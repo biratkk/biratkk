@@ -4,7 +4,7 @@
 #### About me
 
 - ⚒️ Full stack development
-- 🎓 Currently studying Computer Science at the University of Leeds
+- 🎓 Studied Computer Science at the University of Leeds
 - 🧑‍💻 Interested in ML, Neuroscience, Philosophy and much  more...
 
 #### Languages
